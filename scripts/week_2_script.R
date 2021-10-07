@@ -1,5 +1,5 @@
 #Week 2 Homework
-# Jenny Cribbs
+# Jenny Cribbs 
 # R-Davis 07 October 2021
 
 set.seed(15) #setting the starting point to 15
